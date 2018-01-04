@@ -1,6 +1,6 @@
 {% set name = "docrep" %}
-{% set version = "0.1.2" %}
-{% set sha256 = "bd88bd864c04c5db84e65648f53816a5bc695632d5d87a389be8bafcfa1cf407" %}
+{% set version = "0.2.0" %}
+{% set sha256 = "2533fe0c71e1f6049a22e82f7b7471f94baf05a0aed3793a73b04ab8db76c9dc" %}
 
 package:
   name: {{ name|lower }}
