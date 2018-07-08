@@ -17,16 +17,15 @@ well-documented software.
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/docrep-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/docrep-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/docrep-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/docrep-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/docrep-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/docrep-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/docrep-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/docrep-feedstock)
 
 Current release info
 ====================
-[![Conda Recipe](https://img.shields.io/badge/recipe-docrep-green.svg)](https://anaconda.org/conda-forge/docrep)
-[![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/docrep.svg)](https://anaconda.org/conda-forge/docrep)
-[![Conda Version](https://img.shields.io/conda/vn/conda-forge/docrep.svg)](https://anaconda.org/conda-forge/docrep)
-[![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/docrep.svg)](https://anaconda.org/conda-forge/docrep)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-docrep-green.svg)](https://anaconda.org/conda-forge/docrep) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/docrep.svg)](https://anaconda.org/conda-forge/docrep) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/docrep.svg)](https://anaconda.org/conda-forge/docrep) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/docrep.svg)](https://anaconda.org/conda-forge/docrep) |
 
 Installing docrep
 =================
