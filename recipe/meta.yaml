@@ -1,6 +1,6 @@
 {% set name = "docrep" %}
-{% set version = "0.2.7" %}
-{% set sha256 = "c48939ae14d79172839a5bbaf5a570add47f6cc44d2c18f6b1fac8f1c38dec4d" %}
+{% set version = "0.3.0" %}
+{% set sha256 = "8e7d87c284df6ed7c8d27e4efb40275dc61bd33d49f19c693092944019f1b922" %}
 
 package:
   name: {{ name|lower }}
@@ -14,7 +14,7 @@ source:
 build:
   noarch: python
   number: 0
-  script: python -m pip install --no-deps --ignore-installed .
+  script: {{ PYTHON }} -m pip install . --no-deps -vv
 
 requirements:
   host:
@@ -31,10 +31,10 @@ test:
 
 about:
   home: https://github.com/Chilipp/docrep
-  license: GPLv2
+  license: GPL-2.0-only
   license_family: GPL2
   license_file: LICENSE
-  summary: 'Python package for docstring repetition'
+  summary: Python package for docstring repetition
 
   description: |
     The documentation repetition module (docrep) targets developpers that
