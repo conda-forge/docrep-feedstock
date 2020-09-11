@@ -3,7 +3,7 @@ About docrep
 
 Home: https://github.com/Chilipp/docrep
 
-Package license: GPLv2
+Package license: GPL-2.0-only
 
 Feedstock license: BSD-3-Clause
 
