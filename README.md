@@ -5,9 +5,13 @@ Home: https://github.com/Chilipp/docrep
 
 Package license: GPL-2.0-only
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/docrep-feedstock/blob/master/LICENSE.txt)
 
 Summary: Python package for docstring repetition
+
+Development: https://github.com/Chilipp/docrep
+
+Documentation: http://docrep.readthedocs.io/
 
 The documentation repetition module (docrep) targets developpers that
 develop complex and nested Python APIs and helps them to create a
