@@ -26,6 +26,8 @@ requirements:
     - six
 
 test:
+  requires:
+    - python {{ python_min }}
   imports:
     - docrep
 
